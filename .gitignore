@@ -1,10 +1,61 @@
-# Arquivos de IDE
-.nb-gradle/
-build/
-nbproject/
-*.iml
-.idea/
-
-# Arquivos compilados
+# Arquivos de compilação do Java
 *.class
 *.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Pastas de build
+build/
+bin/
+dist/
+out/
+target/
+
+# Arquivos de IDE
+.nb-gradle/
+nbproject/
+private/
+*.iml
+.idea/
+*.ipr
+*.iws
+*.ids
+*.orig
+*.swp
+.DS_Store
+
+# Arquivos do NetBeans
+build.xml
+/nbproject/private/
+/nbproject/build-impl.xml
+/nbproject/genfiles.properties
+/nbproject/project.properties
+/nbproject/project.xml
+
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Arquivos de log
+*.log
+*.log.*
+*.tmp
+
+# Banco de dados (se aplicável)
+*.db
+*.sqlite
+*.h2.db
+
+# Arquivos de configuração local
+*.properties.local
+*.config.local
+
+# Arquivos gerados pelo sistema
+*.orig
+*.rej
