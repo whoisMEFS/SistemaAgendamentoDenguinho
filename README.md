@@ -1,6 +1,5 @@
 # 🐾 Sistema de Agendamento para Petshop: **Denguinho para Cachorro**
 
-![denguinho](https://github.com/user-attachments/assets/2d098cc6-3695-41e8-9c2b-3dc5031cc93d)
 
 ## 📝 Descrição do Projeto
 Projeto acadêmico desenvolvido para a disciplina de **Projeto em Desenvolvimento de Sistemas** da **Universidade Nove de Julho (UNINOVE)**.  
